@@ -1,0 +1,44 @@
+body{background-color: rgba(117, 132, 51, 0.571)}
+
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+nav {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+    border:3px;
+    border-style: solid;
+    border-color: rgba(117, 132, 51, 0.571);
+  }
+a.enlace{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+a.boton {
+    float: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    border:1px;
+    border-style: solid;
+    border-color: rgb(204, 153, 0);
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+
+
+main.pagina2 {
+    text-align: center;
+    
+}
+
+main.pagina3 {
+    text-align: left;
+}
+
